@@ -1,0 +1,7 @@
+Initial content
+<!-- _TREE_ -->
+```tree
+New content
+```
+<!-- _ENDTREE_ -->
+More content
